@@ -1,4 +1,3 @@
-# JavaScript-challenge-projects
 
 <h2>Challenge Project 1: Mysterious Organism</h2>
 
